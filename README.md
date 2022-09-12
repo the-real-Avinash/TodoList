@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+I am creating Todolist using state in react hope this will help beginners to grasp the concept of usestate.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
